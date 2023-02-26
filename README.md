@@ -27,6 +27,6 @@ The main goal of this project is to analyze route patterns for airlines which de
 11. Develop specific hub airports Southwest should denote in their model and locate specific routes that could be removed.  
 12. Simulate projected profits of the proposed route plan. 
 
-Potential Impact: 
+### Potential Impact: 
 
 We hope to suggest a well-formulated plan that can help Southwest Airlines improve their current route model. In the future, this might lead to reduced delays and discrepancies, especially during busier times like the holidays. Suggesting a Hub-and-spoke model for Southwest may lead to increased efficiency by reducing costs and centralizing operations at a hub.  The hub-and-spoke model will provide more connecting options to passengers, enabling them to reach more destinations indirectly. The conversion to a hub-and-spoke model may have a positive or negative impact on economic competitiveness between various airline companies, depending on the location of the hub airport and its accessibility to surrounding areas.  
