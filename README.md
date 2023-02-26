@@ -2,7 +2,7 @@
 
 ## 553.602 Research and Design in Applied Mathematics: Data Mining
 
-### Team Members: Krutal Patel, Mansi Goel, Chenyu Xie, Nihaar Thakkar   
+### Team Members: Chenyu Xie, Krutal Patel, Mansi Goel, Nihaar Thakkar   
 
 ### Subject Area: Transportation Optimization, Transportation Science 
 
